@@ -70,6 +70,4 @@ For any questions or support, please contact:
 
 ---
 
-**Note**: This README provides a general overview and instructions for setting up and using the project. Review and customize it as needed for your specific project requirements.
 
-EOF
